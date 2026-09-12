@@ -46,10 +46,16 @@ This proposal is intended as a topic for further discussion and analysis on chil
 
 It does not present a single solution for all regions. Rather, it proposes an integrated framework that could be examined, evaluated, and adapted according to local conditions.
 
+## One-Page Summary
+
+[A4 One-Page Summary (PDF)](./A4_1page_WHO_Child_Health_Beyond_2030.pdf)
+
 ## Full Proposal
 
-The full proposal is available in this repository.
+[Download the Full Proposal (PDF)](./An_Integrated_Approach_to_Improving_Child_Health_and_Community_Well-being_EN.pdf)
 
 ## Author
 
 Kenichi Miyauchi
+
+** Created: 12 Sep 2026 **
