@@ -1,6 +1,8 @@
 # WHO_Child_Health_Beyond_2030
 # An Integrated Approach to Improving Child Health and Community Well-being
 
+**Keywords:** child health, community well-being, safe water, sanitation, healthcare, agroforestry, child labor, education, renewable energy, CO₂ sequestration, climate change
+
 ## Overview
 
 Many challenges affecting children and communities — including unsafe water, poor sanitation, limited access to healthcare, poverty, child labor, loss of educational opportunities, and climate change — are interconnected.
